@@ -1,0 +1,6 @@
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux 2D\obj\Debug\Tableaux 2D.csprojResolveAssemblyReference.cache
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux 2D\bin\Debug\Tableaux 2D.exe.config
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux 2D\bin\Debug\Tableaux 2D.exe
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux 2D\bin\Debug\Tableaux 2D.pdb
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux 2D\obj\Debug\Tableaux 2D.exe
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux 2D\obj\Debug\Tableaux 2D.pdb

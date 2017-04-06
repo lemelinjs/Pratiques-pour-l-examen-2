@@ -1,0 +1,9 @@
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\bin\Debug\netcoreapp1.1\Tableaux.deps.json
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\bin\Debug\netcoreapp1.1\Tableaux.runtimeconfig.json
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\bin\Debug\netcoreapp1.1\Tableaux.runtimeconfig.dev.json
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\bin\Debug\netcoreapp1.1\Tableaux.dll
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\bin\Debug\netcoreapp1.1\Tableaux.pdb
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\obj\Debug\netcoreapp1.1\Tableaux.AssemblyInfo.cs
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\obj\Debug\netcoreapp1.1\Tableaux.dll
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\obj\Debug\netcoreapp1.1\Tableaux.pdb
+C:\Users\Jean-Sébastien Lemel\Google Drive CEM\0-CEGEP\Programmation 2\Pratiques pour l'examen 2\Tableaux\obj\Debug\netcoreapp1.1\Tableaux.csprojResolveAssemblyReference.cache
