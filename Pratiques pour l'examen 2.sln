@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableaux 2D", "Tableaux 2D\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableaux2d - Calendrier", "Tableaux2d - Calendrier\Tableaux2d - Calendrier.csproj", "{67844F22-04A6-4858-96A1-7E4E4793C45B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableau d'objets", "Tableau d'objets\Tableau d'objets.csproj", "{3791928D-B16B-42D3-BF5C-E182CFC446EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{67844F22-04A6-4858-96A1-7E4E4793C45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67844F22-04A6-4858-96A1-7E4E4793C45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67844F22-04A6-4858-96A1-7E4E4793C45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3791928D-B16B-42D3-BF5C-E182CFC446EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3791928D-B16B-42D3-BF5C-E182CFC446EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3791928D-B16B-42D3-BF5C-E182CFC446EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3791928D-B16B-42D3-BF5C-E182CFC446EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
